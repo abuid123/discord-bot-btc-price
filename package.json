@@ -1,0 +1,21 @@
+{
+  "name": "weatherbot",
+  "version": "1.0.0",
+  "description": "A crypto bot for discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "crypto",
+    "bot"
+  ],
+  "dependencies": {
+    "@discordjs/builders": "^1.8.2",
+    "axios": "^0.19.2",
+    "discord.js": "^14.15.3"
+  },
+  "author": "Agustin fernandez",
+  "license": "MIT"
+}

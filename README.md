@@ -2,6 +2,12 @@
 
 Este proyecto consiste en la creación de un bot para Discord. El bot tiene como objetivo proporcionar el valor del BTC en USD.
 
+## Dependencias
+
+1. Discord.js
+2. Axios
+3. CoinApi.io
+
 ## Instalación
 
 1. Clona este repositorio en tu máquina local.
