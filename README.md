@@ -59,3 +59,4 @@ El bot cuenta con las siguientes funcionalidades:
 Para mas informacion sobre como instalar el bot y crear el tuyo propio te dejo los siguientes links:
 
 [Discord.js](https://discordjs.guide/)
+[Axios](https://axios-http.com/es/docs/intro)
