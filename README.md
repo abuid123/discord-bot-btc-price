@@ -58,4 +58,4 @@ El bot cuenta con las siguientes funcionalidades:
 
 Para mas informacion sobre como instalar el bot y crear el tuyo propio te dejo los siguientes links:
 
-[Texto del enlace](https://discordjs.guide/)
+[Discord.js](https://discordjs.guide/)
